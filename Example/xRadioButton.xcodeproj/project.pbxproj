@@ -46,7 +46,7 @@
 		682D26EAB49CBD53F51A926B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		83F8F09CE9F5C8907CF19011 /* Pods-xRadioButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-xRadioButton_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-xRadioButton_Tests/Pods-xRadioButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9859A6534769EC9454EA8DD6 /* Pods_xRadioButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_xRadioButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F642F6B56B2B2A6F57A28304 /* xRadioButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = xRadioButton.podspec; path = ../xRadioButton.podspec; sourceTree = "<group>"; };
+		F642F6B56B2B2A6F57A28304 /* xRadioButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = xRadioButton.podspec; path = ../xRadioButton.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

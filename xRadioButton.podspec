@@ -9,7 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'xRadioButton'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of xRadioButton.'
+  s.summary          = 'Radio button for iOS'
+  s.swift_version    = '4.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +18,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'xRadioButton is a lightweight RadioButton class for iOS made with swift.'
 
   s.homepage         = 'https://github.com/akinogunc/xRadioButton'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
