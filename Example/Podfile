@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'xRadioButton_Example' do
+  pod 'xRadioButton', :path => '../'
+
+  target 'xRadioButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
